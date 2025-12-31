@@ -49,7 +49,7 @@ Before installation, ensure you have the following:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/sankeer28/stock-predictor.git](https://github.com/sankeer28/stock-predictor.git)
+    git clone https://github.com/raymondoyondi/Stock-Predictor.git
     cd stock-predictor
     ```
 
