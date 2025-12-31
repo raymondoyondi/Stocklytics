@@ -1054,7 +1054,7 @@ export default function Home() {
               </h1>
             </div>
             <a
-              href="https://github.com/sankeer28/stock-predictor"
+              href="https://github.com/raymondoyondi/Stock-Predictor"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 transition-colors px-3 py-1 border"
