@@ -2,7 +2,11 @@
 
 A comprehensive stock analysis platform integrating **Machine Learning forecasting**, **Technical Analysis**, and **Sentiment Analysis** to provide data-driven market insights.
 
+---
 
+### Demo
+
+![demo](https://github.com/user-attachments/assets/7d1f79fb-8e0d-46c0-9b37-bc4879e283d7)
 
 ---
 
