@@ -10,7 +10,7 @@ const dmMono = DM_Mono({
 })
 
 export const metadata: Metadata = {
-  title: 'Stock Predictor - Advanced Technical Analysis',
+  title: 'Stocketics - Advanced Technical Analysis',
   description: 'Real-time stock analysis with technical indicators, price forecasting, and news sentiment',
 }
 
