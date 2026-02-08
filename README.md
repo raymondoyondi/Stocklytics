@@ -4,9 +4,9 @@ A comprehensive stock analysis platform integrating **Machine Learning forecasti
 
 ---
 
-### Demo
+### App Preview
 
-![demo](https://github.com/user-attachments/assets/7d1f79fb-8e0d-46c0-9b37-bc4879e283d7)
+
 
 ---
 
