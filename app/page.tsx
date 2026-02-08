@@ -1045,7 +1045,7 @@ export default function Home() {
         <div className="flex-1 min-w-0">
           {/* Header with Search */}
           <div className="card mb-4">
-            <span className="card-label">Stock Predictor</span>
+            <span className="card-label">Stocketics</span>
           <div className="flex items-center justify-between mb-3">
             <div className="flex items-center gap-2">
               <TrendingUp className="w-6 h-6" style={{ color: 'var(--accent)' }} />
