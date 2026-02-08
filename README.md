@@ -6,7 +6,7 @@ A comprehensive stock analysis platform integrating **Machine Learning forecasti
 
 ### App Preview
 
-
+<img width="1912" height="853" alt="Screenshot 2026-02-08 11 03 42 AM" src="https://github.com/user-attachments/assets/08bf1d9c-737e-48a9-a61a-a4da50e674dd" />
 
 ---
 
