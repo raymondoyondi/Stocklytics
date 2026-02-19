@@ -1,4 +1,4 @@
-# 📈 Stocketics
+# 📈 Stocklytics
 
 A comprehensive stock analysis platform integrating **Machine Learning forecasting**, **Technical Analysis**, and **Sentiment Analysis** to provide data-driven market insights.
 
