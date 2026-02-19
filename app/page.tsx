@@ -1050,7 +1050,7 @@ export default function Home() {
             <div className="flex items-center gap-2">
               <TrendingUp className="w-6 h-6" style={{ color: 'var(--accent)' }} />
               <h1 className="text-lg font-bold" style={{ color: 'var(--text-1)' }}>
-                Stocketics
+                Stocklytics
               </h1>
             </div>
             <a
