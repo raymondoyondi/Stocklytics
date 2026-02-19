@@ -53,8 +53,8 @@ Before installation, ensure you have the following:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/raymondoyondi/Stock-Predictor.git](https://github.com/raymondoyondi/Stock-Predictor.git)
-    cd stock-predictor
+    git clone [https://github.com/raymondoyondi/Stocklytics.git](https://github.com/raymondoyondi/Stocklytics.git)
+    cd Stocklytics
     ```
 
 2.  **Install dependencies:**
