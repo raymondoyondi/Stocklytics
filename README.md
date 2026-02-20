@@ -14,7 +14,6 @@ The platform utilizes an ensemble approach to time-series forecasting:
 * **Ensemble Engine:** A weighted combination of all models for optimized prediction accuracy.
 
 
-
 ### 📊 Technical Analysis & Patterns
 * **Indicators:** Moving Averages (20/50/200-day), RSI, MACD, and Bollinger Bands.
 * **Pattern Detection:** Automatic identification of trendlines, wedges, triangles, channels, double tops/bottoms, and head & shoulders patterns.
